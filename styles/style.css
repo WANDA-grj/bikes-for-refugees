@@ -67,6 +67,7 @@ p {
 
 .navigation__item {
   padding: 0.5rem 0;
+  padding: 4em;
 }
 
 .navigation__link {
@@ -248,3 +249,22 @@ p {
     padding-right: 2rem;
   }
 }
+
+button{
+  background-color: #c05326;
+  padding: .9em;
+  border:0em;
+  border-radius: 2em;
+
+}
+
+button:hover{
+  background-color: #934423;
+}
+
+.buttonwhite{
+  background-color: #fff;
+  color: #c05326;
+  display: inline-block;
+}
+
